@@ -55,7 +55,7 @@ public class App{
                 
                 if (state == ItemEvent.SELECTED) { 
             		frame.getContentPane().setBackground( Color.red );
-            		System.out.println("Color rojo"); 
+            		System.out.println("Color Rojo"); 
                 } 
             } 
         }; 
