@@ -44,7 +44,9 @@ public class App{
 		frame.add(btnorange);
 		
 		frame.setSize(400,500);
+		frame.setLocationRelativeTo(null);
 		frame.setLayout(null);
+		frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);	
 		frame.setVisible(true);
 		
 		
