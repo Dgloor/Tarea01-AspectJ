@@ -4,14 +4,16 @@
 
 ## Objetivos
 
-- Aplicar el patrón observer en el diseño de una aplicación en conjunto con el paradigma orientado a objetos.
+- Aplicar el patrón observer en el diseño de una aplicación en conjunto con
+  el paradigma orientado a aspectos.
 
 ## Descripción Funcionalidad
 
-- #### loremipsum
-  ![]()
+### Cambio del Background color
 
-## Autores:
+![alt]()
+
+## Colaboradores
 
 <div>
 <a title="Joangie Márquez" href="https://github.com/joangiemarquez">
