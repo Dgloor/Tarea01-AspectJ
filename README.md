@@ -11,7 +11,9 @@
 
 ### Cambio del Background color
 
-![alt]()
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/59121896/98503627-fd5e9a00-2222-11eb-8927-e12f05447cab.gif" alt="gif-ventana" />
+</p>
 
 ## Colaboradores
 
