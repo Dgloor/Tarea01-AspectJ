@@ -1,6 +1,6 @@
 package app;
 
-import java.awt.Color;
+import utilities.Utilities;
 
 import javax.swing.JFrame;
 
@@ -29,7 +29,7 @@ public class Screen implements Observer {
 
 	@Override
 	public void update(String color) {
-		this.frame.getContentPane().setBackground(Color.black);
+		this.frame.getContentPane().setBackground(Utilities.getColorByName(color));
 
 	}
 

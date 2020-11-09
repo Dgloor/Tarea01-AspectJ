@@ -8,5 +8,8 @@ public aspect ColorChange {
 	after(String color):change(color){
 		System.out.println("New background color -> " + color + "\n");
 	}
-
+	
+	before(String x): change(x){
+		System.out.println("We are changing the background color to: "+x+"\n...please wait...\n");
+	}
 }
