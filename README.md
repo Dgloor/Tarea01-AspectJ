@@ -18,7 +18,9 @@
 </p>
 
 ### Alerta por consola 
-  
+La nueva funcionalidad alerta previamente el color al que se va a cambiar el background, se puede observar 
+como se presenta un delay al momento de accionar el botón.
+
 <p align="center">
   <img src="https://user-images.githubusercontent.com/59121896/98586879-5ec05080-2297-11eb-888d-239999824068.gif" alt="gif-consola" />
 </p>
