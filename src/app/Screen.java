@@ -29,6 +29,11 @@ public class Screen implements Observer {
 
 	@Override
 	public void update(String color) {
+		try {
+			Thread.sleep(1000);
+		} catch (InterruptedException e) {
+			e.printStackTrace();
+		}
 		this.frame.getContentPane().setBackground(Utilities.getColorByName(color));
 
 	}
