@@ -11,8 +11,16 @@
 
 ### Cambio del Background color
 
+### Interfaz Gráfica 
+
 <p align="center">
   <img src="https://user-images.githubusercontent.com/59121896/98503627-fd5e9a00-2222-11eb-8927-e12f05447cab.gif" alt="gif-ventana" />
+</p>
+
+### Alerta por consola 
+  
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/59121896/98586879-5ec05080-2297-11eb-888d-239999824068.gif" alt="gif-consola" />
 </p>
 
 ## Colaboradores
